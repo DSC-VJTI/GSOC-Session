@@ -1,4 +1,4 @@
 # GSOC-Session
 
 A one stop resource for the GSOC Session conducted in VJTI<br>
-http://bit.ly/gsoc-seminar-registration
+https://drive.google.com/drive/u/5/folders/1uEwEb0ib7iuQjlSs_UXq5rAl1mOjK-gl
